@@ -4,6 +4,8 @@
 .config
 coverage
 InstalledFiles
+Gemfile.lock
+InstalledFiles
 lib/bundler/man
 pkg
 rdoc
